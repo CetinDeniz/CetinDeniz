@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CetinDeniz
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on Android App Development
+- 💞️ I’m looking to collaborate on as a Android Developer
 - 📫 How to reach me ...
 
 <!---
