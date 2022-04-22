@@ -20,12 +20,33 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
----
+<!-- --- -->
+<!-- --- -->
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&redirect=true)
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CetinDeniz&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
   <div align="center">
 </div>
+
+
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br>
+    [![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=CetinDeniz&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+  </td>
+  <td width="50%">
+    
+  &nbsp;
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&redirect=true)
+
+  </p>
+  </td>
+</table>
+
+![](https://komarev.com/ghpvc/?username=CetinDeniz)
+
+<div align="center">
+< [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CetinDeniz)](https://git.io/streak-stats) />
+  </div>
