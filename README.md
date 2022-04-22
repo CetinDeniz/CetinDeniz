@@ -5,8 +5,8 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cetindeniz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deniz Çetin" height="40" width="50" /></a>
-<a href="mailto:denizcetin.dev@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="denizcetin.dev@gmail.com" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/cetindeniz/" target="blank"><img align="center" src="https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png" height="40" width="40" /></a>
+<a href="mailto:denizcetin.dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="denizcetin.dev@gmail.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +32,7 @@
   </td>
   <td width="50%"> 
     
-&nbsp;  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CetinDeniz)](https://git.io/streak-stats)
+&nbsp;  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CetinDeniz&theme=gruvbox)](https://git.io/streak-stats)
     
   </p>
   </td>
@@ -42,8 +42,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&redirect=true)
 
-  ![](https://komarev.com/ghpvc/?username=CetinDeniz)
-
-<p align="center">
-  
-</p>
+![](https://komarev.com/ghpvc/?username=CetinDeniz)
