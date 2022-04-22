@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cetindeniz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deniz Çetin" height="40" width="50" /></a>
-<a href="mailto:denizcetin.dev@gmail.com?" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Deniz Çetin" height="40" width="50" /></a>
+<a href="mailto:denizcetin.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Deniz Çetin" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
