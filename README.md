@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android Developer from Turkey</h3>
 
 <!-- - 📫 How to reach me **denizcetin.dev@gmail.com** -->
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cetindeniz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deniz Çetin" height="40" width="50" /></a>
@@ -20,10 +20,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
+---
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&redirect=true)
-
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CetinDeniz&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+</div>
