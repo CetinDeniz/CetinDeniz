@@ -41,6 +41,6 @@
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=deniz%C3%A7etin&redirect=true)
+
 
 ![](https://komarev.com/ghpvc/?username=CetinDeniz)
